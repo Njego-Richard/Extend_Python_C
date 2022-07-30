@@ -1,7 +1,7 @@
 import c_module
 from time import time
 
-# Python fib version using recursion
+# Python fib version using recursion in python
 def py_fib(n):
     if (n <= 1):
         return n
