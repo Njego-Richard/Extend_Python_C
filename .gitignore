@@ -1,0 +1,8 @@
+# ingnoring files
+*.txt
+*.so
+
+#ingnoring directories
+build/
+Njego_env/
+.vscode/
